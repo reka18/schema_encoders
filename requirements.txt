@@ -1,0 +1,5 @@
+spacy
+cython
+flask-restful
+sqlitedict
+py2neo
